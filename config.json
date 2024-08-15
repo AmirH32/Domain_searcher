@@ -1,0 +1,6 @@
+{
+    "icann.account.username": "abc123@example.com",
+    "icann.account.password": "Enter your ICANN password",
+    "authentication.base.url": "https://account-api.icann.org",
+    "czds.base.url": "https://czds-api.icann.org"
+}
