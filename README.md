@@ -7,6 +7,8 @@ If you would like to use the ICANN scanner:
   
 1). Open the config.json file and enter your ICANN czds username and password into the respective fields (https://czds.icann.org/home), on the CZDS platform request zone files from the registrars you wish to use in your search.  
   
+![image](https://github.com/user-attachments/assets/b5bb1da1-1e31-4d89-b866-c4f6e708d4e7)
+  
 2). Start the Domain_Lookup.py program and select option 3 and then select if you would like to download all or some of the files you requested access for (keep in mind these files can be large - up to around 5GB)  
   
 If you would like to use the WHOIS scanner:  
