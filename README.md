@@ -2,7 +2,6 @@
 Domain search tool using both ICANN czds and WHOis domain discovery API 
 
 # INSTALLATION  
----
 Please follow this process  
 If you would like to use the ICANN scanner:   
   
